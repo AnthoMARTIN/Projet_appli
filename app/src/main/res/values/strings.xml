@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Airneis</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title" translatable="false">Accueil</string>
+    <string name="home_page_last_meuble_section" translatable="false">Accueil</string>
+
+    <!-- Page de collection -->
+    <string name="collection_page_meuble_title" translatable="false">Nom du meuble</string>
+
+    <!-- Page d'ajout de meuble -->
+    <string name="add_meuble_page_title" translatable="false">Ajout d\' un meuble</string>
+    <string name="add_meuble_page_upload_button" translatable="false">Charger image</string>
+    <string name="add_meuble_page_name_input" translatable="false">@string/item_meuble_name</string>
+    <string name="add_meuble_page_description_input" translatable="false">Description du meshable</string>
+
+    <!-- Custom Plante -->
+    <string name="home_page_meuble_name" translatable="false">Nom du meuble</string>
+    <string name="home_page_meuble_description" translatable="false">Description du meuble</string>
+    <string name="item_meuble_name" translatable="false" />
+
+</resources>
